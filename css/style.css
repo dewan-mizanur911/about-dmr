@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+}
+.about-me{
+    width: 50%;
+    overflow: hidden;
+    margin: 0 auto;
+
+}
+img{
+    height: 200px;
+    width: 80%;
+}
+p{
+    text-align: justify;
+    width: 80%;
+}

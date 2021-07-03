@@ -1,10 +1,15 @@
 h1{
     text-align: center;
+    color: green;
 }
 .about-me{
     width: 50%;
     overflow: hidden;
     margin: 0 auto;
+    background-color: gray;
+    padding: 10px;
+    border: 2px solid blue;
+    border-radius: 10px;
 
 }
 img{
@@ -13,5 +18,5 @@ img{
 }
 p{
     text-align: justify;
-    width: 80%;
+    color: white;
 }

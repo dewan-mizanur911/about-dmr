@@ -20,3 +20,8 @@ p{
     text-align: justify;
     color: white;
 }
+.bio{
+    display: block;
+    color: blue;
+    font-weight: bold;
+}
